@@ -307,6 +307,14 @@ a {
     padding-left: 7em;
 }
 
+.form-control {
+    width: 100%;
+    border: 2px solid var(--border);
+    padding: 1em;
+    font-size: 18px;
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+}
 
 
 /* ---------- !article page ---------- */
