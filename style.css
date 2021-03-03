@@ -319,6 +319,23 @@ a {
 
 /* ---------- !article page ---------- */
 
+/* ---------- Sidebar ---------- */
+
+#sidebar .categories a {
+ padding: 1em 3em;
+ font-size: 18px;
+ margin-bottom: 1em;
+ background-color: var(--light);
+ border-radius: 99px;
+}
+
+#sidebar .categories a:hover {
+    background-color: var(--primary-color);
+    color: var(--light);
+}
+
+/* ---------- !Sidebar ---------- */
+
 
 
 /* Media Query */
